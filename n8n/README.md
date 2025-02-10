@@ -182,3 +182,4 @@ Adjust the `Batch Processing` size in the "Translate" node (defaults to 5 parall
 - n8n instance (self-hosted or cloud)
 - Google Gemini API access and credentials (or other LLM model)
 <!-- Unit feature - 20250203_0002 -->
+<!-- Unit feature - 20250210_0012 -->
